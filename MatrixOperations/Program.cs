@@ -11,7 +11,7 @@ namespace MatrixOperations
         static void Main(string[] args)
         {
             int[,] a = { { 1, 2 }, { 3, 4 } }; //Test matrix 1 values
-            int[,] b = { { 5, 6 }, { 7, 8 } }; //Test matrix 2
+            int[,] b = { { 5, 6 }, { 7, 8 } }; //Test matrix 2 values
             Matrix m = new Matrix();
 
             Console.WriteLine("");
