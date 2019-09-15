@@ -10,7 +10,7 @@ namespace MatrixOperations
     {
         static void Main(string[] args)
         {
-            int[,] a = { { 1, 2 }, { 3, 4 } }; //Test matrix 1
+            int[,] a = { { 1, 2 }, { 3, 4 } }; //Test matrix 1 values
             int[,] b = { { 5, 6 }, { 7, 8 } }; //Test matrix 2
             Matrix m = new Matrix();
 
